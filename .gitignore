@@ -1,7 +1,8 @@
 # Dependencies
 /NotesNode/node_modules
 /weatherApp/node_modules
-/nodeWebServer/node_modules
+/nodeTests/node_modules
+
 
 # Log archives
 /nodeWebServer/server.log
